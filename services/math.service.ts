@@ -1,7 +1,7 @@
 import {createService} from "../createService"
 
 
-const math = createService({
+export const math = createService({
   name: "math"
   },
   {
